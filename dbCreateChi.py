@@ -3,6 +3,8 @@ import pprint
 import pandas as pd
 #from config import config
 
+
+
 def cooperCreate(dbName):
 	''' Initial function to create and load data  '''
 	#connection string to String

@@ -98,7 +98,7 @@ def cooperVIZ(dbName, query):
 	#Labels
 	ax.set_ylabel('Counts')
 	ax.set_xlabel('Crimes')
-	ax.set_title('Crimes Commited by Count Jan 14 - Mar 14')
+	ax.set_title('Crimes Committed by Count Jan 14 - Mar 14')
 
 	ax.set_xticks(ind+width)
 	xtickNames = ax.set_xticklabels(xTickMarks)
